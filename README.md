@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=200&section=header&text=Bhavesh%20Chaudhari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Competitive%20Programmer&descAlignY=55&descSize=18)
+
+</div>
 
 <!--
 **b-chaudhari07/b-chaudhari07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
