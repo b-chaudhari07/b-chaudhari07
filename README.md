@@ -9,10 +9,9 @@
 ### 👋 About Me
 
 - 🎓 Second-year Computer Engineering student (IT'29)
-- 🔧 Currently building a **backend development ladder** — 5 progressive projects, from raw Node.js to Express + MongoDB + JWT auth
-- 🧠 Parallel track: Competitive Programming / DSA (graph theory done, DP in progress)
-- 📚 Learning in public — daily structured sessions, pushing real progress not tutorials
-- 🎯 Goal: product-based companies
+- 🔧 Currently building a **backend development Fundamentals** — projects, from raw Node.js to Express + MongoDB + JWT auth
+- 🧠 Parallel track: Competitive Programming / DSA 
+- 📚 Learning in public — daily structured sessions, pushing real progress
 
 <br>
 
@@ -43,7 +42,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-chaudhari07&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b-chaudhari07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
 
 </div>
 
